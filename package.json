@@ -1,0 +1,21 @@
+{
+    "name": "less-plugin-tsdk",
+    "description": "less插件，公司内部用",
+    "version": "0.1",
+    "license": "MIT",
+    "keywords": ["lessc", "tsdk"],
+    "author": "Tangoboy <137757831@qq.com>",
+    "main": "./index.js",
+    "homepage": "https://github.com/fengdi/less-plugin-tsdk",
+    "bugs": "https://github.com/fengdi/less-plugin-tsdk/issues",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fengdi/less-plugin-tsdk.git"
+    },
+    "engines": {
+        "node": ">=0.6.0"
+    },
+    "devDependencies": {
+        "iconv-lite": "0.4.13"
+    }
+}
