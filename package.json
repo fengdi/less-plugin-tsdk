@@ -1,7 +1,7 @@
 {
   "name": "less-plugin-tsdk",
   "description": "less插件，公司内部用",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "keywords": [
     "lessc",
@@ -24,6 +24,6 @@
     "iconv-lite": "0.4.13"
   },
   "scripts": {
-    "test": "''"
+    "test": ""
   }
 }
